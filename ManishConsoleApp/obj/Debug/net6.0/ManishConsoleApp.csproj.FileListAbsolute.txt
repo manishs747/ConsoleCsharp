@@ -1,0 +1,15 @@
+C:\workspace\dotnet\ConsoleCsharp\ManishConsoleApp\bin\Debug\net6.0\ManishConsoleApp.exe
+C:\workspace\dotnet\ConsoleCsharp\ManishConsoleApp\bin\Debug\net6.0\ManishConsoleApp.deps.json
+C:\workspace\dotnet\ConsoleCsharp\ManishConsoleApp\bin\Debug\net6.0\ManishConsoleApp.runtimeconfig.json
+C:\workspace\dotnet\ConsoleCsharp\ManishConsoleApp\bin\Debug\net6.0\ManishConsoleApp.dll
+C:\workspace\dotnet\ConsoleCsharp\ManishConsoleApp\bin\Debug\net6.0\ManishConsoleApp.pdb
+C:\workspace\dotnet\ConsoleCsharp\ManishConsoleApp\obj\Debug\net6.0\ManishConsoleApp.csproj.AssemblyReference.cache
+C:\workspace\dotnet\ConsoleCsharp\ManishConsoleApp\obj\Debug\net6.0\ManishConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dotnet\ConsoleCsharp\ManishConsoleApp\obj\Debug\net6.0\ManishConsoleApp.AssemblyInfoInputs.cache
+C:\workspace\dotnet\ConsoleCsharp\ManishConsoleApp\obj\Debug\net6.0\ManishConsoleApp.AssemblyInfo.cs
+C:\workspace\dotnet\ConsoleCsharp\ManishConsoleApp\obj\Debug\net6.0\ManishConsoleApp.csproj.CoreCompileInputs.cache
+C:\workspace\dotnet\ConsoleCsharp\ManishConsoleApp\obj\Debug\net6.0\ManishConsoleApp.dll
+C:\workspace\dotnet\ConsoleCsharp\ManishConsoleApp\obj\Debug\net6.0\refint\ManishConsoleApp.dll
+C:\workspace\dotnet\ConsoleCsharp\ManishConsoleApp\obj\Debug\net6.0\ManishConsoleApp.pdb
+C:\workspace\dotnet\ConsoleCsharp\ManishConsoleApp\obj\Debug\net6.0\ManishConsoleApp.genruntimeconfig.cache
+C:\workspace\dotnet\ConsoleCsharp\ManishConsoleApp\obj\Debug\net6.0\ref\ManishConsoleApp.dll
