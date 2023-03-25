@@ -1,0 +1,11 @@
+Q)how does .net complile and execute code
+When you write code in .NET, you typically write it in a high-level language like C# or Visual Basic. 
+Before this code can be executed, it must be compiled into an intermediate language called Common Intermediate Language 
+(CIL), also known as Microsoft Intermediate Language (MSIL).(same as byte code in java)
+
+This process is performed by a compiler, such as the C# compiler (csc.exe) or the Visual Basic compiler (vbc.exe), 
+which takes your source code and produces a file with a ".dll" or ".exe" extension that contains the compiled code in CIL format.
+
+When you execute your .NET application, the .NET runtime uses a just-in-time (JIT) compiler to translate the CIL code into native machine code that can be executed by the processor. The JIT compiler performs this translation on a method-by-method basis, compiling each method the first time it is called and storing the resulting native code in memory for future use.
+
+This approach has several advantages, including improved performance, platform independence, and the ability to use multiple programming languages within the same application. Additionally, the .NET runtime provides a number of services, such as memory management and security, to help ensure that your code runs efficiently and securely.
